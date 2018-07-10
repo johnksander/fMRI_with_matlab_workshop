@@ -4,8 +4,8 @@
 
 
 -----------------------------
-**Topics for workshops held on:**
-**07/10/18**
+**Topics for workshops held on:**  
+**07/10/18**  
 **07/11/18**  
 
 * Intro to matlab topics
@@ -16,7 +16,7 @@
   * Looping & control statements
   * Matrix operations  
 
-* fMRI topics: decoding analysis with the Haxby 2001 dataset 
+* fMRI topics: decoding analysis with the Haxby 2001 dataset
   * NIfTI data format 
   * Visualizing scan data 
   * ROIs & manipulating matrices 
