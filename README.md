@@ -8,13 +8,15 @@
 **07/10/18**  
 **07/11/18**  
 
-* Intro to matlab topics
-  * Directories and the matlab path 
+
+* Intro to Matlab topics
+  * Directories and the matlab path  
   * Loading data
   * Datatypes and indexing
   * Functions 
   * Looping & control statements
   * Matrix operations  
+
 
 * fMRI topics: decoding analysis with the Haxby 2001 dataset
   * NIfTI data format 
