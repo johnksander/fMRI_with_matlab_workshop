@@ -1,12 +1,12 @@
-## fMRI with matlab workshops for the Brandeis psychology department 
+## fMRI with Matlab workshops for the Brandeis psychology department 
 
 
 
 
 -----------------------------
-**Topics for workshops held on:
-07/10/18
-07/11/18**  
+**Topics for workshops held on:**
+**07/10/18**
+**07/11/18**  
 
 * Intro to matlab topics
   * Directories and the matlab path 
@@ -22,6 +22,5 @@
   * ROIs & manipulating matrices 
   * Preprocessing considerations
   * Stimulus decoding & cross-validation
-  * Looping & control statements
 -----------------------------
 For any questions or comments, please e-mail jksander@brandeis.edu
