@@ -16,8 +16,6 @@
   * Functions 
   * Looping & control statements
   * Matrix operations  
-
-
 * fMRI topics: decoding analysis with the Haxby 2001 dataset
   * NIfTI data format 
   * Visualizing scan data 
